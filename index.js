@@ -1,1 +1,1 @@
-var recipes =learn {};
+var recipes = {};
